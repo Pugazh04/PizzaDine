@@ -1,2 +1,2 @@
-# Pizza Dine
+# PizzaDine
 Pizza Ordering System
