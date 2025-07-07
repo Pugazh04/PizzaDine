@@ -1,4 +1,4 @@
-# Pizza delivery management system
+# Pizza Ordering system
 
 import time
 from tabulate import tabulate
