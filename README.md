@@ -1,2 +1,2 @@
-# PizzaNow
+# Pizza Dine
 Pizza Ordering System
